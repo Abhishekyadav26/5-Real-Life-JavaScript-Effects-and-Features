@@ -1,0 +1,16 @@
+.row{
+    display: flex;
+}
+.col{
+    height: 80px;
+    width: 80px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    cursor: pointer;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
